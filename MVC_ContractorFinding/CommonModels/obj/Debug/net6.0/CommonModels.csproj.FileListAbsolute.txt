@@ -1,0 +1,12 @@
+D:\MVC\MVC_ContractorFinding\CommonModels\bin\Debug\net6.0\CommonModels.deps.json
+D:\MVC\MVC_ContractorFinding\CommonModels\bin\Debug\net6.0\CommonModels.dll
+D:\MVC\MVC_ContractorFinding\CommonModels\bin\Debug\net6.0\CommonModels.pdb
+D:\MVC\MVC_ContractorFinding\CommonModels\obj\Debug\net6.0\CommonModels.csproj.AssemblyReference.cache
+D:\MVC\MVC_ContractorFinding\CommonModels\obj\Debug\net6.0\CommonModels.GeneratedMSBuildEditorConfig.editorconfig
+D:\MVC\MVC_ContractorFinding\CommonModels\obj\Debug\net6.0\CommonModels.AssemblyInfoInputs.cache
+D:\MVC\MVC_ContractorFinding\CommonModels\obj\Debug\net6.0\CommonModels.AssemblyInfo.cs
+D:\MVC\MVC_ContractorFinding\CommonModels\obj\Debug\net6.0\CommonModels.csproj.CoreCompileInputs.cache
+D:\MVC\MVC_ContractorFinding\CommonModels\obj\Debug\net6.0\CommonModels.dll
+D:\MVC\MVC_ContractorFinding\CommonModels\obj\Debug\net6.0\refint\CommonModels.dll
+D:\MVC\MVC_ContractorFinding\CommonModels\obj\Debug\net6.0\CommonModels.pdb
+D:\MVC\MVC_ContractorFinding\CommonModels\obj\Debug\net6.0\ref\CommonModels.dll

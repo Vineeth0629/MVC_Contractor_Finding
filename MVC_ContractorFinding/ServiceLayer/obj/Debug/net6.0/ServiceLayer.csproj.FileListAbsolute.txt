@@ -1,0 +1,15 @@
+D:\MVC\MVC_ContractorFinding\ServiceLayer\bin\Debug\net6.0\ServiceLayer.deps.json
+D:\MVC\MVC_ContractorFinding\ServiceLayer\bin\Debug\net6.0\ServiceLayer.dll
+D:\MVC\MVC_ContractorFinding\ServiceLayer\bin\Debug\net6.0\ServiceLayer.pdb
+D:\MVC\MVC_ContractorFinding\ServiceLayer\bin\Debug\net6.0\CommonModels.dll
+D:\MVC\MVC_ContractorFinding\ServiceLayer\bin\Debug\net6.0\CommonModels.pdb
+D:\MVC\MVC_ContractorFinding\ServiceLayer\obj\Debug\net6.0\ServiceLayer.csproj.AssemblyReference.cache
+D:\MVC\MVC_ContractorFinding\ServiceLayer\obj\Debug\net6.0\ServiceLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\MVC\MVC_ContractorFinding\ServiceLayer\obj\Debug\net6.0\ServiceLayer.AssemblyInfoInputs.cache
+D:\MVC\MVC_ContractorFinding\ServiceLayer\obj\Debug\net6.0\ServiceLayer.AssemblyInfo.cs
+D:\MVC\MVC_ContractorFinding\ServiceLayer\obj\Debug\net6.0\ServiceLayer.csproj.CoreCompileInputs.cache
+D:\MVC\MVC_ContractorFinding\ServiceLayer\obj\Debug\net6.0\ServiceLayer.csproj.CopyComplete
+D:\MVC\MVC_ContractorFinding\ServiceLayer\obj\Debug\net6.0\ServiceLayer.dll
+D:\MVC\MVC_ContractorFinding\ServiceLayer\obj\Debug\net6.0\refint\ServiceLayer.dll
+D:\MVC\MVC_ContractorFinding\ServiceLayer\obj\Debug\net6.0\ServiceLayer.pdb
+D:\MVC\MVC_ContractorFinding\ServiceLayer\obj\Debug\net6.0\ref\ServiceLayer.dll
